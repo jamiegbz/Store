@@ -1,0 +1,54 @@
+{
+  "cart": [
+    {
+      "id": 0,
+      "productId": 2,
+      "amount": 4
+    },
+    {
+      "id": 1,
+      "productId": 1,
+      "amount": 1
+    },
+    {
+      "productId": 2,
+      "amount": 1,
+      "id": 2
+    },
+    {
+      "productId": 2,
+      "amount": 1,
+      "id": 3
+    }
+  ],
+  "Legos": [
+    {
+      "id": 1,
+      "name": "Bouquet of Roses",
+      "price": 59.99,
+      "quantityInStock": 250,
+      "number": 10328
+    },
+    {
+      "id": 2,
+      "name": "UP House",
+      "price": 47.99,
+      "quantityInStock": 100,
+      "number": 43217
+    },
+    {
+      "id": 3,
+      "name": "Skyline",
+      "price": 19.99,
+      "quantityInStock": 50,
+      "number": 76917
+    },
+    {
+      "id": 4,
+      "name": "Stitch",
+      "price": 64.99,
+      "quantityInStock": 150,
+      "number": 43249
+    }
+  ]
+}
